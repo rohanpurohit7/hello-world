@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome! Dev Ops Learning via Udemy and New Mobile User to the System, Please Register</h1>
+    <h1>Welcome! Dev Ops Learning via Udemy Online and New Mobile User to the System, Please Register</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
 
@@ -30,4 +30,5 @@
     <p>Already have an account? You can use a new Interface <a href="#">Sign in</a>.</p>
   </div>
 </form>
+
 
