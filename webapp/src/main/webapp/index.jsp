@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome! New User to the System, Please Register</h1>
+    <h1>Welcome! Dev Ops Learning via Udemy and New Mobile User to the System, Please Register</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
 
@@ -8,10 +8,9 @@
     <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
     <br>
 
-    <label for="mobile"><b>Enter Mobile Number </b></label>
+    <label for="mobile"><b>Enter Mobile Number</b></label>
     <input type="text" placeholder="Enter mobile" name="mobile" id="mobile" required>
     <br>
-
 
     <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
@@ -31,3 +30,4 @@
     <p>Already have an account? You can use a new Interface <a href="#">Sign in</a>.</p>
   </div>
 </form>
+
